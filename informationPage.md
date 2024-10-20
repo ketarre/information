@@ -4,6 +4,7 @@
 
 This is just the start, expect rapid growth and updates to the bot!
 
+
 **Bot Invite Link:** ~~**not disclosed yet**~~
 
 **Main Server:** https://discord.gg/JDZmAuQY
