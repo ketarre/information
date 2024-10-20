@@ -1,6 +1,12 @@
 ## Bot Information Page
 
-**lyronix's bot#9467** is a very new bot with many features such as a virtual economy, multiplayer and pvb games, and much more! As of now, there are very fun basic features such as a basic but well managed economy system with a very unique real estate system.  With this system, you can invest your money to start gathering a good flow of income. This money can either be saved and cherished, or used in our very fun gambling games! Try your best to become the richest and reach the top. However, this isn't all we have. We have other features such as PVB (player versus bot) games such as Tic-Tac-Toe and very useful moderation features such as warning, muting, etc. allowing you to keep your server in tact. And this is just the start!
+**lyronix's bot#9467** is a very new but fastly developing bot with many features such as a managed global economy, multiplayer and pvb games, and much more! As of  now, there is a basic virtual economy system with a very unique **real estate investment system**. With this system, you can invest your money into real estate to start earning a steady flow of income. This money can either be saved and cherished to reach the top of the leaderboard, reinvested into real estate, or spent on our upcoming features! 
+
+This is just the start, expect rapid growth and updates to the bot!
+
+**Bot Invite Link:** __**not disclosed yet**__
+**Main Server:** https://discord.gg/JDZmAuQY
+**Terms of Service:** https://github.com/ketarre/tos
 
 
 ###### Created by: [@kismisp](https://discordapp.com/users/1206865169846632450) 
