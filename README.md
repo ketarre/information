@@ -1,2 +1,1 @@
-# wiki
-Wikipedia page with all the information about the bot
+## To see all information about the bot, click [here](https://github.com/ketarre/wiki/wiki)
