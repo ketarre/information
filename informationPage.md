@@ -12,5 +12,4 @@ This is just the start, expect rapid growth and updates to the bot!
 **Terms of Service:** https://github.com/ketarre/tos
 
 
-###### Created by: [@kismisp](https://discordapp.com/users/1206865169846632450) 
-###### Last Edited: 10/20/24
+###### Created by: [@kismisp](https://discordapp.com/users/1206865169846632450), Last Edited: 10/20/24
