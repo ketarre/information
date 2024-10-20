@@ -4,8 +4,10 @@
 
 This is just the start, expect rapid growth and updates to the bot!
 
-**Bot Invite Link:** __**not disclosed yet**__
+**Bot Invite Link:** ~~**not disclosed yet**~~
+
 **Main Server:** https://discord.gg/JDZmAuQY
+
 **Terms of Service:** https://github.com/ketarre/tos
 
 
