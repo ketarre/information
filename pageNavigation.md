@@ -1,4 +1,4 @@
-## Navigation
+## Navigation ###### Created by: [@kismisp](https://discordapp.com/users/1206865169846632450), Last Edited: 10/20/24
 Below is a Table of Contents for every page on this repository. If you are on PC, you can also alternatively navigate using the sidebar on the left.
 
 ### 1) Economic Related Commands:
