@@ -12,6 +12,6 @@ This is just the start, expect rapid growth and updates to the bot!
 
 **Terms of Service:** https://github.com/ketarre/tos
 
-###### You can navigate through all the different pages by clicking [here](https://github.com/ketarre/information/blob/main/pageNavigation.md)
+###### You can click [here](https://github.com/ketarre/information/blob/main/pageNavigation.md) to go to our navigation page where you can easily find the information that you are looking for.
 
 ###### Created by: [@kismisp](https://discordapp.com/users/1206865169846632450), Last Edited: 10/20/24
