@@ -12,3 +12,5 @@ There is an optional compulsory field you can enter, `user`. This field let's yo
 - Check the chosen user's balance
 
 If this field is left empty, it will default to the command invoker (you), so you don't have to fill out this field if you just want to check your own balance.
+
+###### Created by: [@kismisp](https://discordapp.com/users/1206865169846632450), Last Edited: 10/20/24
