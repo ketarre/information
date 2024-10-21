@@ -7,7 +7,7 @@ The `/balance` command is a simple command that let's you check:
 
 ## Compulsory Field:
 
-There is an optional compulsory field you can enter, `user`. This field let's you:
+There is an optional compulsory field called `user` that you can enter. This field let's you:
 - Put in a **Discord User ID** or a **Discord Username**
 - Check the chosen user's balance
 
