@@ -3,7 +3,7 @@
 **lyronix's bot** is a very new but fastly developing bot with many features such as:
 
 - The most realistic, managed global economy on Discord
-- Multiplayer and PVB games (Player vs. Bot) ,
+- Multiplayer and PVB games (Player vs. Bot)
 - And much more updates to come!
 
 At it's current state, this bot has a basic virtual economy system with a very unique **real estate investment system**. With this system, you can invest your money into real estate to start earning a steady flow of income. This money can either be saved and cherished to reach the top of the leaderboard, reinvested into real estate, or spent on our upcoming features! 
