@@ -2,7 +2,7 @@
 Below is a Table of Contents for every page on this repository. If you are on PC, you can also alternatively navigate using the sidebar on the left.
 
 ### 1) Economic Related Commands:
-- /balance (Allows you to check your balance)
+- [/balance](https://github.com/ketarre/information/blob/main/%CE%B9balance.md) (Allows you to check your balance)
 - /withdraw (Allows you to withdraw from your bank to your balance)
 - /deposit (Allows you to deposit from your balance to your bank)
 
