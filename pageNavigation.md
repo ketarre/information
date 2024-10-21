@@ -6,12 +6,12 @@ Below is a Table of Contents for every page on this repository. If you are on PC
 - /withdraw (Allows you to withdraw from your bank to your balance)
 - /deposit (Allows you to deposit from your balance to your bank)
 
-  1.1) Earning Money Commands:
+1.1) Earning Money Commands:
 - /work (Basic command to earn some money)
 - /search (Basic command to earn some money)
 - /daily (Basic command to earn some money)
 
-  1.2) Supporter Money Earning Commands:
+1.2) Supporter Money Earning Commands:
 - /weekly (Supporter command to earn some money)
 - /monthly (Supporter command to earn some money)
 
