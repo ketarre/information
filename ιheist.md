@@ -28,6 +28,9 @@ At first glance, the /heist command may seem a bit confusing, so here's how it w
 - A successful heist can earn you $100-1000
 - A failed heist will give you a fine of $100-1000
 
+The money taken from your balance from fines will be transferred from your balance to the bot's bank balance.
+
+## Side Note:
 However, don't forget that you're stealing from the bot's bank balance. So in the very, very rare instance the bot has <$1000, you will only be able to steal what there is to grab.
 
 
