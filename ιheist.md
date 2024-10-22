@@ -24,7 +24,7 @@ At first glance, the /heist command may seem a bit confusing, so here's how it w
 
 ## Risk vs. Reward:
 
-`/heist` is a very risky command, but it can be very worth it!
+`/heist` is a very risky command due to the risk of getting caught and fined, but it can be very worth it!
 - A successful heist will let you steal a random amount from $100-1000.
 - A failed heist will result in a fine of $100-1000.
 
