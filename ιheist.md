@@ -4,6 +4,7 @@ The `/heist` command is a fun earning money command that let's you:
 - Attempt to break into the bot's bank balance to earn some money.
 - You get 10 attempts to try to solve a randomized 4 digit code.
 - Be careful! Failing to crack the code within 10 guesses will set off the alarm and get you caught and fined!
+- This command has a **86,400 second (24 hour) cooldown time.**
 
 ## Minigame Gameplay:
 
