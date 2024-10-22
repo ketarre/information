@@ -17,7 +17,7 @@ At first glance, the /heist command may seem a bit confusing, so here's how it w
 - There are two outputs: **Correct Digits (1)** and **Correct Positions (2)**
 
 **Correct Digits** are how many digits of the code are correct.
-**For Example:** Guess: 1234, Code: 2341, **Correct Digits = 4**
+\n**For Example:** Guess: 1234, Code: 2341, **Correct Digits = 4**
 
 **Correct Positions** are how many digits are in the right spot.
 **For Example:** Guess: 1234, Code: 2341, **Correct Positions = 0**  
