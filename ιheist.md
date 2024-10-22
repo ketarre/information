@@ -25,8 +25,8 @@ At first glance, the /heist command may seem a bit confusing, so here's how it w
 ## Risk vs. Reward:
 
 `/heist` is a very risky command due to the risk of getting caught and fined, but it can be very worth it!
-- A successful heist will let you steal a random amount from $100-1000.
 - A failed heist will result in a fine of $100-1000.
+- However, a successful heist will let you steal a random amount from $100-1000.
 
 The money taken from your balance from fines will be transferred from your balance to the bot's bank balance.
 
