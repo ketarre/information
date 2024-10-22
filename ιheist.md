@@ -20,7 +20,15 @@ At first glance, the /heist command may seem a bit confusing, so here's how it w
 - **For Example:** Guess: 1234, Code: 2341, **Correct Digits = 4**
 
 **Correct Positions** are how many digits are in the right spot.
-- **For Example:** Guess: 1234, Code: 2341, **Correct Positions = 0**  
+- **For Example:** Guess: 1234, Code: 2341, **Correct Positions = 0**
+
+## Risk vs. Reward:
+
+`/heist` is a very risky command, but it can be very worth it!
+- A successful heist can earn you $100-1000
+- A failed heist will give you a fine of $100-1000
+
+However, don't forget that you're stealing from the bot's bank balance. So in the very, very rare instance the bot has <$1000, you will only be able to steal what there is to grab.
 
 
 ###### Created by: [@kismisp](https://discordapp.com/users/1206865169846632450), Last Edited: 10/22/24
