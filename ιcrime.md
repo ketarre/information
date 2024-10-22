@@ -6,7 +6,7 @@ The `/crime` command is a simple yet risky earning money command that let's you:
 
 ## Risk vs. Reward:
 
-While committing a crime is much riskier than other earning money commands, here are the risks vs. reward:
+While committing a crime is much riskier than other earning money commands, here are the risks vs. rewards:
 
 - You have a **30% chance** of getting caught doing a crime.
 - You have a **70% chance** of getting away with the crime.
