@@ -9,7 +9,7 @@ The `/heist` command is a fun earning money command that let's you:
 
 At first glance, the /heist command may seem a bit confusing, so here's how it works:
 
-#### **Guessing:** To enter a guess, press the `Enter Guess` button. This will open up a modal.
+#### Guessing: To enter a guess, press the `Enter Guess` button. This will open up a modal.
 - Remember your guesses, because once you submit it, it won't be visible to you again.
 - You will be given an error if you try to enter anything besides a valid 4 digit code.
 
