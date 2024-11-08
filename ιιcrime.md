@@ -16,4 +16,4 @@ If you successfully commit a crime, you can earn from **$20-50**.
 However, if you fail a crime, you can be fined from **$35-70**.
 
 
-###### Created by: [@kismisp](https://discordapp.com/users/1206865169846632450), Last Edited: 10/22/24
+###### Created by: [@kismisp](https://discordapp.com/users/1206865169846632450), Last Edited: 11/08/24
