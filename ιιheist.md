@@ -35,4 +35,4 @@ The money taken from your balance from fines will be transferred from your balan
 However, don't forget that you're stealing from the bot's bank balance. So in the very, very rare instance the bot has <$1000, you will only be able to steal what there is to grab.
 
 
-###### Created by: [@kismisp](https://discordapp.com/users/1206865169846632450), Last Edited: 10/22/24
+###### Created by: [@kismisp](https://discordapp.com/users/1206865169846632450), Last Edited: 11/08/24
