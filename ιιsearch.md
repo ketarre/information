@@ -13,4 +13,4 @@ Obviously, just searching around for money doesn't always work out.
 
 If you end up finding money, you can earn from **$5-20**.
 
-###### Created by: [@kismisp](https://discordapp.com/users/1206865169846632450), Last Edited: 10/22/24
+###### Created by: [@kismisp](https://discordapp.com/users/1206865169846632450), Last Edited: 11/08/24
