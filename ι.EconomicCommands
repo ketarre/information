@@ -1,1 +1,24 @@
+# Earning Commands
+
+There are a LOT of options when it comes to the economy. For example, in short, you can:
+- Use simple commands to start off and get a good amount of money.
+- Save up that money to invest it in things such as stocks or real estate.
+- Work up to eventually have a constant flow of passive income.
+- And much more updates and features to come!
+
+## 1.0 - Economic Related Commands:
+- [/balance](https://github.com/ketarre/information/blob/main/.%CE%B9balance.md) (Allows you to check your balance)
+- [/withdraw](https://github.com/ketarre/information/blob/main/.%CE%B9withdraw.md) (Allows you to withdraw from your bank to your balance)
+- [/deposit](https://github.com/ketarre/information/blob/main/.%CE%B9deposit.md) (Allows you to deposit from your balance to your bank)
+
+## 1.1 - Earning Money Commands:
+- [/work](https://github.com/ketarre/information/blob/main/%CE%B9work.md) (Basic command to earn some money)
+- [/search](https://github.com/ketarre/information/blob/main/%CE%B9search.md) (Basic command to earn some money)
+- [/daily](https://github.com/ketarre/information/blob/main/%CE%B9daily.md) (Basic command to earn some money)
+- [/crime](https://github.com/ketarre/information/blob/main/%CE%B9crime.md) (Basic command to earn some money, with a risk)
+- [/heist](https://github.com/ketarre/information/blob/main/%CE%B9heist.md) (Minigame to try to rob the bot bank, with a risk)
+
+## 1.2 - Supporter Money Earning Commands:
+- [/weekly](https://github.com/ketarre/information/blob/main/%CE%B9weekly.md) (Supporter command to earn some money)
+- [/monthly](https://github.com/ketarre/information/blob/main/%CE%B9monthly.md) (Supporter command to earn some money)
 
