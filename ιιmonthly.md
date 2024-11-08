@@ -12,5 +12,5 @@ The `/monthly` command is a simple command that let's you:
 
 
 
-###### Created by: [@kismisp](https://discordapp.com/users/1206865169846632450), Last Edited: 10/23/24
+###### Created by: [@kismisp](https://discordapp.com/users/1206865169846632450), Last Edited: 11/08/24
 
