@@ -11,6 +11,8 @@ When using this command, there are four different gamemodes which you can play:
 - **Hard:** The bot will play with perfect theory, making the best move possible every single time.
 - **Random:** The bot will choose randomly whether it wants to be **Easy, Medium, or Hard.**
 
+## Gameplay:
+
 
 
 ###### Created by: [@kismisp](https://discordapp.com/users/1206865169846632450), Last Edited: 11/12/24
