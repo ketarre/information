@@ -12,3 +12,5 @@ When using this command, there are four different gamemodes which you can play:
 - **Random:** The bot will choose randomly whether it wants to be **Easy, Medium, or Hard.**
 
 
+
+###### Created by: [@kismisp](https://discordapp.com/users/1206865169846632450), Last Edited: 11/12/24
