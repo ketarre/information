@@ -1,23 +1,33 @@
 # /pvb_rps
 
-The `/pvb_rps` command is a fun command that lets you play the world famous game, Rock-Paper-Scissors, against an AI (the bot). This bot has the standard, original version of Tic-Tac-Toe, meaning that it is played on a 3x3 board with no additional rules other than claiming a square and trying to get three in a row first. The player will always have the first move.
+The `/pvb_rps` command is a fun command that lets you play the world famous game, Rock-Paper-Scissors, against an AI (the bot). This bot has the standard, original version of Rock-Paper-Scissors, meaning that it is just the basic moves, **Rock, Paper, and Scissors** with no additional rules or options. 
 
 ## Compulsory Field:
 
-When using this command, there are four different gamemodes which you can play:
+When using this command, there are two fields that are required to be filled out:
 
-- **Easy:** The bot will have completely randomized moves, making it completely unpredicatable.
-- **Medium:** The bot will be random for the most part, but is able to notice when you are one move from winning.
-- **Hard:** The bot will play with perfect theory, making the best move possible every single time.
-- **Random:** The bot will choose randomly whether it wants to be **Easy, Medium, or Hard.**
+### Difficulty: 
+
+- **Easy:** The bot will have completely random and unpredicatable moves, making it more realistic and possible to beat.
+- **Impossible:** Just as the name states, it is completely impossible to beat the bot on this mode. You can try, but you won't succeed!
+
+### Rounds:
+
+This field will only take a number from **1 to 5**, which will set the amount of rounds you will play to. 
+
+- **Note:** The **number of rounds** can be a bit misleading as it represents how many wins you must get, not how many rounds will be played.
+- **Example:** Rounds Set - **3**. You will play until either you or the bot reaches 3 wins, even if 100 ties happen in between.
 
 ## Gameplay:
 
-The game is very simple, the goal is to get 3 in a row before the opponent (horizontally, vertically, or diaganolly).
+The game is very simple, the goal is to pick the counter of the choice that the AI picks.
 
-- When you use the command, the game will automatically pop up for you. There will be a 3x3 board made of buttons.
-- To claim the spot you want, simply just click the button on the spot you want and it will automatically change to your square.
-- If there is no winner, the text will signify that it is a tie and the game will clarify that.
-- Otherwise, if there is a winner, it will mention whether it was the player or AI and highlight the winning line green.
+**Possible Combinations:** 
+
+- Rock beats Scissors
+- Paper beats Rock
+- Scissors beats Paper
+- Ties if otherwise (eg. Rock vs. Rock)
+
 
 ###### Created by: [@kismisp](https://discordapp.com/users/1206865169846632450), Last Edited: 11/13/24
