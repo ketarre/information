@@ -13,6 +13,11 @@ When using this command, there are four different gamemodes which you can play:
 
 ## Gameplay:
 
+The game is very simple, the goal is to get 3 in a row before the opponent (horizontally, vertically, or diaganolly).
 
+- When you use the command, the game will automatically pop up for you. There will be a 3x3 board made of buttons.
+- To claim the spot you want, simply just click the button on the spot you want and it will automatically change to your square.
+- If there is no winner, the text will signify that it is a tie and the game will clarify that.
+- Otherwise, if there is a winner, it will mention whether it was the player or AI and highlight the winning line green.
 
-###### Created by: [@kismisp](https://discordapp.com/users/1206865169846632450), Last Edited: 11/12/24
+###### Created by: [@kismisp](https://discordapp.com/users/1206865169846632450), Last Edited: 11/13/24
