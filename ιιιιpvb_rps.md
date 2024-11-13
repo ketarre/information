@@ -29,5 +29,6 @@ The game is very simple, the goal is to pick the counter of the choice that the 
 - Scissors beats Paper
 - Ties if otherwise (eg. Rock vs. Rock)
 
+If you correctly pick the opponent's counter, a point will be added to your score. If you get countered by the opponent, the opponent will gain a point. If you guys tie, the score will remain the same and proceed to the next round. 
 
 ###### Created by: [@kismisp](https://discordapp.com/users/1206865169846632450), Last Edited: 11/13/24
