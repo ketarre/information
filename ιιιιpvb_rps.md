@@ -6,12 +6,12 @@ The `/pvb_rps` command is a fun command that lets you play the world famous game
 
 When using this command, there are two fields that are required to be filled out:
 
-### Difficulty: 
+**Difficulty:** 
 
 - **Easy:** The bot will have completely random and unpredicatable moves, making it more realistic and possible to beat.
 - **Impossible:** Just as the name states, it is completely impossible to beat the bot on this mode. You can try, but you won't succeed!
 
-### Rounds:
+**Rounds:**
 
 This field will only take a number from **1 to 5**, which will set the amount of rounds you will play to. 
 
