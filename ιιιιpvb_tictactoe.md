@@ -1,6 +1,6 @@
 # /pvb_tictactoe
 
-The `/pvb_tictactoe` command is a fun command that lets you play the world famous game, Tic-Tac-Toe, against an AI (the bot). This bot has the standard, original version of Tic-Tac-Toe, meaning that it is played on a 3x3 board. The player will always go first.
+The `/pvb_tictactoe` command is a fun command that lets you play the world famous game, Tic-Tac-Toe, against an AI (the bot). This bot has the standard, original version of Tic-Tac-Toe, meaning that it is played on a 3x3 board with no additional rules other than claiming a square and trying to get three in a row first. The player will always have the first move.
 
 ## Compulsory Field:
 
